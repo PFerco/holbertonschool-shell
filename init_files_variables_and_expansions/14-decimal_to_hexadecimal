@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hexadecimal $DECIMAL
+echo '16o $DECIMAL'
